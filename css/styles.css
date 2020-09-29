@@ -8,3 +8,7 @@ hr {
     border-style: dotted none none none;
     width: 5%;
 }
+
+h1, h3 {
+    color: #66BFBF;
+}
